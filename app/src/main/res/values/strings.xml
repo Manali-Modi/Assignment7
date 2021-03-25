@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment7</string>
+    <string name="notify">Set Notification</string>
+    <string name="alarm">Set Alarm</string>
+</resources>
